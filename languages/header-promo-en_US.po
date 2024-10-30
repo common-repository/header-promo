@@ -1,0 +1,354 @@
+# Copyright (C) 2024 bPlugins LLC
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Header Promo 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/header-promo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-28T08:49:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: header-promo\n"
+
+#. Plugin Name of the plugin
+#: inc/AdminMenu.php:21
+#: inc/AdminMenu.php:22
+msgid "Header Promo"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/my-pricing-table"
+msgstr ""
+
+#. Description of the plugin
+msgid "Make beautiful Promotion Bar with this plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bplugins.com"
+msgstr ""
+
+#: header-promo.php:176
+#: dist/script.js:1
+#: dist/script.js:67
+msgid "days"
+msgstr ""
+
+#: header-promo.php:181
+#: dist/script.js:1
+#: dist/script.js:68
+msgid "hours"
+msgstr ""
+
+#: header-promo.php:186
+#: dist/script.js:1
+#: dist/script.js:69
+msgid "minutes"
+msgstr ""
+
+#: header-promo.php:191
+#: dist/script.js:1
+#: dist/script.js:70
+msgid "seconds"
+msgstr ""
+
+#: inc/AdminMenu.php:31
+#: inc/AdminMenu.php:32
+msgid "Help"
+msgstr ""
+
+#: inc/csf/setting-options.php:25
+msgid "Show/Hide Bar"
+msgstr ""
+
+#: inc/csf/setting-options.php:26
+msgid "Show or Hide Promotion Bar"
+msgstr ""
+
+#: inc/csf/setting-options.php:33
+msgid "Stop Reappear"
+msgstr ""
+
+#: inc/csf/setting-options.php:34
+msgid "Stop reappear after closed the promo"
+msgstr ""
+
+#: inc/csf/setting-options.php:41
+msgid "Pages"
+msgstr ""
+
+#: inc/csf/setting-options.php:42
+msgid "Leave empty to show on every page. Every page should be in a new line"
+msgstr ""
+
+#: inc/csf/setting-options.php:52
+msgid "Style"
+msgstr ""
+
+#: inc/csf/setting-options.php:53
+msgid "Choose Promo Style from the list"
+msgstr ""
+
+#: inc/csf/setting-options.php:65
+msgid "Positions"
+msgstr ""
+
+#: inc/csf/setting-options.php:66
+msgid "Choose Position where you want to show"
+msgstr ""
+
+#: inc/csf/setting-options.php:77
+#: inc/csf/setting-options.php:288
+msgid "Background"
+msgstr ""
+
+#: inc/csf/setting-options.php:78
+msgid "Choose Background of the Promo Bar"
+msgstr ""
+
+#: inc/csf/setting-options.php:87
+#: inc/csf/setting-options.php:93
+msgid "Message/Text"
+msgstr ""
+
+#: inc/csf/setting-options.php:94
+msgid "Enter Promo message/text"
+msgstr ""
+
+#: inc/csf/setting-options.php:101
+msgid "Message/Text Font Size"
+msgstr ""
+
+#: inc/csf/setting-options.php:102
+msgid "Enter Font Size for Promo Message/Text"
+msgstr ""
+
+#: inc/csf/setting-options.php:110
+msgid "Message/Text Color"
+msgstr ""
+
+#: inc/csf/setting-options.php:111
+msgid "Color for Promo Message/Text"
+msgstr ""
+
+#: inc/csf/setting-options.php:118
+msgid "Message/Text Font Weight"
+msgstr ""
+
+#: inc/csf/setting-options.php:119
+msgid "Choose Font Weight for Message/Text from the list"
+msgstr ""
+
+#: inc/csf/setting-options.php:132
+msgid "Message/Text Style"
+msgstr ""
+
+#: inc/csf/setting-options.php:133
+msgid "Choose Message/Text Style"
+msgstr ""
+
+#: inc/csf/setting-options.php:147
+msgid "Button Options"
+msgstr ""
+
+#: inc/csf/setting-options.php:153
+msgid "Button Text"
+msgstr ""
+
+#: inc/csf/setting-options.php:154
+msgid "Enter the text of the Promo Button"
+msgstr ""
+
+#: inc/csf/setting-options.php:161
+msgid "Button Link"
+msgstr ""
+
+#: inc/csf/setting-options.php:162
+msgid "Enter the link of the Promo BUtton"
+msgstr ""
+
+#: inc/csf/setting-options.php:169
+msgid "Open link in"
+msgstr ""
+
+#: inc/csf/setting-options.php:170
+msgid "Choose where the promo button link will open"
+msgstr ""
+
+#: inc/csf/setting-options.php:181
+msgid "Button Font Size"
+msgstr ""
+
+#: inc/csf/setting-options.php:182
+msgid "Enter Font Size for Promo Button"
+msgstr ""
+
+#: inc/csf/setting-options.php:191
+msgid "Button Text color"
+msgstr ""
+
+#: inc/csf/setting-options.php:192
+msgid "Text Color for Promo Button"
+msgstr ""
+
+#: inc/csf/setting-options.php:200
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/csf/setting-options.php:201
+msgid "Color for Promo Button Background"
+msgstr ""
+
+#: inc/csf/setting-options.php:208
+msgid "Button Border Radius"
+msgstr ""
+
+#: inc/csf/setting-options.php:209
+msgid "Choose Border Radius for Promo Button"
+msgstr ""
+
+#: inc/csf/setting-options.php:220
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/csf/setting-options.php:221
+msgid "Choose Hover Color for Promo Button"
+msgstr ""
+
+#: inc/csf/setting-options.php:228
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/csf/setting-options.php:229
+msgid "Choose Hover Background Color for Promo Button"
+msgstr ""
+
+#: inc/csf/setting-options.php:245
+msgid "Show/Hide Countdown Timer"
+msgstr ""
+
+#: inc/csf/setting-options.php:246
+msgid "Choose mode to Enable or Disable Promotion Countdown"
+msgstr ""
+
+#: inc/csf/setting-options.php:252
+msgid "Targeted Date"
+msgstr ""
+
+#: inc/csf/setting-options.php:253
+msgid "Select Targeted Date for the Countdown Timer"
+msgstr ""
+
+#: inc/csf/setting-options.php:270
+msgid "Targeted Time"
+msgstr ""
+
+#: inc/csf/setting-options.php:271
+msgid "Enter Targeted Time for Countdown Timer, No Need to Input AM/PM: format \"hh:mm:ss\""
+msgstr ""
+
+#: inc/csf/setting-options.php:272
+msgid "Use time in 24 hours format"
+msgstr ""
+
+#: inc/csf/setting-options.php:280
+msgid "Text Color"
+msgstr ""
+
+#: inc/csf/setting-options.php:281
+msgid "Choose Text Color of Countdown Timer"
+msgstr ""
+
+#: inc/csf/setting-options.php:289
+msgid "Choose Background color for Countdown Timer"
+msgstr ""
+
+#: inc/csf/setting-options.php:296
+msgid "Digit Background"
+msgstr ""
+
+#: inc/csf/setting-options.php:297
+msgid "Choose Background Color for Countdown Timer Digit"
+msgstr ""
+
+#: inc/csf/setting-options.php:304
+msgid "Digit Font Size"
+msgstr ""
+
+#: inc/csf/setting-options.php:305
+msgid "Enter Font Size for Countdown Timer Digit"
+msgstr ""
+
+#: inc/csf/setting-options.php:313
+msgid "Digit Font Weight"
+msgstr ""
+
+#: inc/csf/setting-options.php:314
+msgid "Choose Font Weight for Countdown Timer Digit"
+msgstr ""
+
+#: inc/csf/setting-options.php:327
+msgid "Digit Border"
+msgstr ""
+
+#: inc/csf/setting-options.php:328
+msgid "To hide border, Set it to \"0\""
+msgstr ""
+
+#: inc/csf/setting-options.php:329
+msgid "Enter Border Size for Countdown Timer Digit"
+msgstr ""
+
+#: inc/csf/setting-options.php:337
+msgid "Digit Border Color"
+msgstr ""
+
+#: inc/csf/setting-options.php:338
+msgid "Choose Border Color for Countdown Timer Digit"
+msgstr ""
+
+#: inc/csf/setting-options.php:345
+msgid "Digit Border Radius"
+msgstr ""
+
+#: inc/csf/setting-options.php:346
+msgid "Input Size for Border Radius"
+msgstr ""
+
+#: dist/admin.js:1
+#: dist/admin.js:40
+msgid "Thanks for Installing Header Promo Plugin."
+msgstr ""
+
+#: dist/admin.js:1
+#: dist/admin.js:41
+msgid "Please follow the links below to get some helpful resources."
+msgstr ""
+
+#: dist/script.js:1
+#: dist/script.js:67
+msgid "day"
+msgstr ""
+
+#: dist/script.js:1
+#: dist/script.js:68
+msgid "hour"
+msgstr ""
+
+#: dist/script.js:1
+#: dist/script.js:69
+msgid "minute"
+msgstr ""
+
+#: dist/script.js:1
+#: dist/script.js:70
+msgid "second"
+msgstr ""
